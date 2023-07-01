@@ -1,38 +1,237 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
+a {
+  margin: 5px;
+  padding: 5px;
+  transition: opacity 0.3s, background-color 0.3s;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a svg {
+  transition: fill 0.3s;
+}
+
+.light {
+  opacity: 1;
+}
+
+.light:hover {
+  opacity: 0.5;
+}
+
+.dark {
+  background-color: #ffbebe;
+}
+
+.dark:hover {
+  background-color: #d72a2a;
+}
+
+img {
+  display: block;
+  width: 64px;
+  height: 64px;
+}
+
+.red {
+  fill: red;
+  transition: fill 0.3s;
+}
+
+.red:hover {
+  fill: rgb(143, 0, 0);
+}
+
+.blue {
+  fill: rgb(43, 0, 255);
+  transition: fill 0.3s;
+}
+
+.blue:hover {
+  fill: rgb(0, 9, 104);
+}
+
+.green {
+  fill: rgb(89, 255, 0);
+  transition: fill 0.3s;
+}
+
+.green:hover {
+  fill: rgb(33, 104, 0);
+}
+
+.green {
+  fill: green;
+  transition: fill 0.3s;
+}
+
+.green:hover {
+  fill: rgb(0, 59, 0);
+}
+
+.blue {
+  fill: rgb(34, 49, 255);
+  transition: fill 0.3s;
+}
+
+.orange:hover {
+  fill: rgb(255, 178, 34);
+}
+
+.ball:hover .blue {
+  fill: rgb(13, 22, 152);
+}
+
+.ball:hover .red {
+  fill: rgb(255, 217, 25);
+}
+
+.bus {
+  fill: rgb(255, 178, 34);
+}
+
+.camera path {
+  fill: aqua;
+  transition: fill 0.3s;
+}
+
+.camera circle {
+  fill: red;
+  transition: fill 0.3s;
+}
+
+.camera:hover path {
+  fill: rgb(255, 0, 217);
+}
+
+.camera:hover circle {
+  fill: rgb(9, 255, 0);
+}
+
+.clock {
+  fill: blue;
+}
+
+.clock:hover {
+  fill: rgb(255, 0, 0);
+}
+
+.mac {
+  fill: grey;
+}
+
+.mac path {
+  transition: fill 0.3s;
+}
+
+.mac:hover .monitor {
+  fill: blue;
+}
+
+.mac:hover .keyboard {
+  fill: rgb(111, 255, 0);
+}
+
+.bus:hover {
+  fill: rgb(25, 254, 44);
+}
+
+.star {
+  fill: rgb(255, 178, 34);
+}
+
+.star:hover {
+  fill: rgb(254, 55, 25);
+}
+
+.icon {
+  display: block;
+  width: 64px;
+  height: 64px;
+  background-image: url("./sprite.svg");
+  background-size: 272px 168px;
+  background-repeat: no-repeat;
+}
+
+.icon-ball {
+  background-position: 0 0;
+}
+
+.icon-bus {
+  background-position: -104px 0;
+}
+
+.icon-camera {
+  background-position: -208px 0;
+}
+
+.icon-clock {
+  background-position: 0 -104px;
+}
+
+.icon-mac {
+  background-position: -104px -104px;
+}
+
+.icon-star {
+  background-position: -208px -104px;
+}
+
+.icon2 {
+  display: block;
+  width: 64px;
+  height: 64px;
+  background-size: 64px 64px;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+}
+
+.icon2-ball {
+  background-image: url("./sprite2.svg#icon-ball");
+}
+
+.icon2-bus {
+  background-image: url("./sprite2.svg#icon-bus");
+}
+
+.icon2-camera {
+  background-image: url("./sprite2.svg#icon-camera");
+}
+
+.icon2-clock {
+  background-image: url("./sprite2.svg#icon-clock");
+}
+
+.icon2-mac {
+  background-image: url("./sprite2.svg#icon-mac");
+}
+
+.icon2-star {
+  background-image: url("./sprite2.svg#icon-star");
+}
+
+svg.small {
+  width: 32px;
+  height: 32px;
+}
+
+svg.normal {
+  width: 64px;
+  height: 64px;
+}
+
+svg.big {
+  width: 100px;
+  height: 100px;
+}
+
+hr {
+  margin: 30px 0;
+  width: 100%;
 }
