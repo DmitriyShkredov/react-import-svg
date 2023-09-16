@@ -2,7 +2,7 @@
 
 ### `Demo:` https://dmitriyshkredov.github.io/react-import-svg/
 
-### `Video:` https://youtube.com/shorts/98my23c5G6I
+### `Video:` https://youtu.be/164Z0a5f4oQ
 
 ---
 
