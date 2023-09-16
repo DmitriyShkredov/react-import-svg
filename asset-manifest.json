@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-import-svg/static/css/main.ec6b295a.css",
+    "main.js": "/react-import-svg/static/js/main.c85830f2.js",
+    "static/js/787.40b3de96.chunk.js": "/react-import-svg/static/js/787.40b3de96.chunk.js",
+    "static/media/sprite.svg": "/react-import-svg/static/media/sprite.a2bcf4c2ae1711b5511c.svg",
+    "static/media/sprite3.svg": "/react-import-svg/static/media/sprite3.102f5bff873607bfc3d02247173ce925.svg",
+    "static/media/sprite2.svg": "/react-import-svg/static/media/sprite2.f0884627313011fd81ad.svg",
+    "static/media/icon-ball.svg": "/react-import-svg/static/media/icon-ball.58dc261cd55a991f5190b29ef0759145.svg",
+    "index.html": "/react-import-svg/index.html",
+    "static/media/icon-star.svg": "/react-import-svg/static/media/icon-star.689f061a77e2ef2e9cb8d7d4dfac0504.svg",
+    "static/media/icon-bus.svg": "/react-import-svg/static/media/icon-bus.f53b7000bc178256433f258ee5e8fb30.svg",
+    "static/media/icon-clock.svg": "/react-import-svg/static/media/icon-clock.e880e83d407e80389f625afbed358724.svg",
+    "static/media/icon-camera.svg": "/react-import-svg/static/media/icon-camera.c3f0b7aad7f5862957840d152c4de6cf.svg",
+    "static/media/icon-macbook.svg": "/react-import-svg/static/media/icon-macbook.8c0e4796e692c42ab882528d4b645be0.svg",
+    "main.ec6b295a.css.map": "/react-import-svg/static/css/main.ec6b295a.css.map",
+    "main.c85830f2.js.map": "/react-import-svg/static/js/main.c85830f2.js.map",
+    "787.40b3de96.chunk.js.map": "/react-import-svg/static/js/787.40b3de96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6b295a.css",
+    "static/js/main.c85830f2.js"
+  ]
+}
