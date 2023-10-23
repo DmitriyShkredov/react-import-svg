@@ -1,18 +1,18 @@
-# React-import-svg
+## React-import-svg
 
-### `Demo:` https://dmitriyshkredov.github.io/react-import-svg/
+#### `Demo:` https://dmitriyshkredov.github.io/react-import-svg/
 
 #### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
-### `Video:` [Как добавить SVG иконки в React | React SVG icons](https://youtu.be/164Z0a5f4oQ)
+#### `Video:` [Как добавить SVG иконки в React | React SVG icons](https://youtu.be/164Z0a5f4oQ)
 
 ---
 
-### `git clone https://github.com/DmitriyShkredov/react-import-svg.git`
+#### `git clone https://github.com/DmitriyShkredov/react-import-svg.git`
 
-### `npm install`
+#### `npm install`
 
-### `npm start`
+#### `npm start`
 
 ---
 
