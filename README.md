@@ -4,7 +4,7 @@
 
 #### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
-### `Video:` https://youtu.be/164Z0a5f4oQ
+### `Video:` [Как добавить SVG иконки в React | React SVG icons](https://youtu.be/164Z0a5f4oQ)
 
 ---
 
