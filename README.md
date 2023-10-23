@@ -2,7 +2,9 @@
 
 ### `Demo:` https://dmitriyshkredov.github.io/react-import-svg/
 
-### `Video:` https://youtu.be/164Z0a5f4oQ
+#### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+
+### `Video:` [Как добавить SVG иконки в React | React SVG icons](https://youtu.be/164Z0a5f4oQ)
 
 ---
 
